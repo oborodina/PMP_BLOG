@@ -1,0 +1,150 @@
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Дата: 18.05.2021 12:41:05
+Error editing profile: Object reference not set to an instance of an object.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/22/2021 9:48:04 PM
+POST http://192.168.56.101/api/posts: Object reference not set to an instance of an object.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/22/2021 9:48:38 PM
+POST http://192.168.56.101/api/posts: Object reference not set to an instance of an object.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:15 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:15 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:15 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:15 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:15 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:15 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:16 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:16 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:16 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:16 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:16 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:16 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:16 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:16 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:16 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:16 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:16 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:16 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:16 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:16 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:16 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:16 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:16 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:16 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:17 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:17 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:17 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:17 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:17 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:17 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:17 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:17 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:17 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:17 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:17 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:17 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:20 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:20 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:20 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:20 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:20 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 1:29:20 PM
+POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 9:14:22 PM
+Error editing profile: Object reference not set to an instance of an object.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 11:34:16 PM
+POST http://192.168.56.101/api/posts: String was not recognized as a valid DateTime.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 11:34:16 PM
+POST http://192.168.56.101/api/posts: String was not recognized as a valid DateTime.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 11:35:56 PM
+POST http://192.168.56.101/api/posts: String was not recognized as a valid DateTime.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 5/23/2021 11:41:18 PM
+POST http://192.168.56.101/api/posts: String was not recognized as a valid DateTime.
