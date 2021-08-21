@@ -8179,3 +8179,30 @@ POST http://192.168.56.101/api/posts: Collection was modified; enumeration opera
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
 Date: 8/21/2021 2:51:27 PM
 POST http://192.168.56.101/api/posts: Collection was modified; enumeration operation may not execute.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 8/21/2021 3:07:34 PM
+Error sending email in SendMailMessage:  Failure sending mail. The remote name could not be resolved: 'mail.example.com'
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 8/21/2021 3:07:43 PM
+Error sending email in SendMailMessage:  Failure sending mail. The remote name could not be resolved: 'mail.example.com'
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 8/21/2021 3:07:46 PM
+Error sending email in SendMailMessage:  Failure sending mail. The remote name could not be resolved: 'mail.example.com'
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 8/21/2021 3:08:01 PM
+Error sending email in SendMailMessage:  Failure sending mail. The remote name could not be resolved: 'mail.example.com'
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 8/21/2021 3:08:23 PM
+Error sending email in SendMailMessage:  Failure sending mail. The remote name could not be resolved: 'mail.example.com'
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 8/21/2021 3:09:17 PM
+Error sending email in SendMailMessage:  Failure sending mail. The remote name could not be resolved: 'mail.example.com'
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 8/21/2021 3:53:50 PM
+BlogEngine.Core.Packaging.Load: Invalid URI: The hostname could not be parsed.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 8/21/2021 3:59:14 PM
+BlogEngine.Core.Packaging.Load: Invalid URI: The hostname could not be parsed.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date: 8/21/2021 6:08:52 PM
+BlogEngine.Core.Packaging.Load: Invalid URI: The hostname could not be parsed.

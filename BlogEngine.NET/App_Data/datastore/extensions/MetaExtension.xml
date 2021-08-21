@@ -103,7 +103,7 @@
       <Required>false</Required>
       <SelectedValue />
       <Values>0</Values>
-      <Values>0</Values>
+      <Values>6</Values>
     </Parameters>
     <Parameters>
       <KeyField>false</KeyField>
