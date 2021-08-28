@@ -148,3 +148,6 @@ POST http://192.168.56.101/api/posts: String was not recognized as a valid DateT
 *-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
 Date: 5/23/2021 11:41:18 PM
 POST http://192.168.56.101/api/posts: String was not recognized as a valid DateTime.
+*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Дата: 28.08.2021 12:23:05
+BlogEngine.Core.Packaging.Load: Invalid URI: The hostname could not be parsed.
